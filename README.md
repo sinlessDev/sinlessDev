@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on meetciao.com<br>👯 I’m looking to collaborate on takeover.deals<br>🤝 I’m looking for help with sales and marketing<br>🌱 I’m currently learning full-stack engineering and Leetcode
+🔭 I’m currently working on meetciao.com<br>👯 I’m currently learning full-stack engineering and Leetcode
 
 
 # 💻 Tech Stack:
